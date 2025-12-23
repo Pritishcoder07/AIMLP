@@ -1,2 +1,0 @@
-# AIMLP
-learning aiml
